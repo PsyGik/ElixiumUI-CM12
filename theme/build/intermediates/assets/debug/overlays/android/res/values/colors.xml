@@ -4,7 +4,6 @@
     <color name="battery_saver_mode_color">#00f4511e</color>
     <color name="user_icon_1">#ffffffff</color>
     <color name="holo_button_normal">#bd333333</color>
-    <color name="background_leanback_dark">#ff333333</color>	
     <color name="highlighted_text_material_dark">#66cccccc</color>
     <color name="highlighted_text_material_light">#668e9090</color>	
     <color name="material_deep_teal_200">#ffcccccc</color>

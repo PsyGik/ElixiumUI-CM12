@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/JJ/Desktop/Photoshop%20CS6%20Portable/Elixium/ElixiumUI-CM12/theme/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/JJ/Desktop/ElixiumUI-CM12/theme/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="theme_author">Zyxxeil</string>
     <string name="theme_name">Elixium UI</string>
-    <!-- From: file:/C:/Users/JJ/Desktop/Photoshop%20CS6%20Portable/Elixium/ElixiumUI-CM12/theme/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/JJ/Desktop/ElixiumUI-CM12/theme/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
